@@ -1,0 +1,13 @@
+## Interface: 120001
+## Title: Tabiux
+## Notes: Delving into the journey of addon development.
+## Author: Lushvale / Tabibrave-ArgentDawn
+## Version: 0.1
+## SavedVariables:
+## SavedVariablesPerCharacter: TabiuxDb
+
+# Libs
+
+
+# Main
+Core.lua
